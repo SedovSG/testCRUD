@@ -1,0 +1,9 @@
+.idea/
+*.sublime-project
+*.sublime-workspace
+Thumbs.db
+.DS_Store
+.vscode/
+
+/vendor/*
+/data/cache/*
